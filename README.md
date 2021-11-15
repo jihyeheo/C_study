@@ -45,6 +45,18 @@
 
 ## Chapter12 : [20211013]<br>
 
+
+
+## Chapter13 : [20211103] <br>
+
+## Chapter14 : [20211103] <br>
+
+## Chapter15 : [20211110] <br>
+
+## Project [20211101 ~ 20211201] <br>
+- 지금까지 배운 내용 게임 3편 제작기
+- **Game_1 출처** : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lghlove0509&logNo=220716010633 [20211117]
+
 ## 숙제(Review)<br>
 1) Chapter2 ~ Chapter8 [[Link]](https://github.com/jihyeheo/C_study/blob/main/Review/Chapter2~Chapter8_Summary.pdf)<br>
 2) Chapter9 ~ Chapter12 [[Link]]
