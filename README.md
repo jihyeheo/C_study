@@ -55,7 +55,8 @@
 
 ## Project [20211101 ~ 20211201] <br>
 - 지금까지 배운 내용 게임 3편 제작기
-- **Game_1 출처** : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lghlove0509&logNo=220716010633 [20211117]
+- **Game_1 출처** : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lghlove0509&logNo=220716010633 [20211117]<br>
+- **Game_2 출처** : https://min-12.tistory.com/13 [20211117]<br>
 
 ## 숙제(Review)<br>
 1) Chapter2 ~ Chapter8 [[Link]](https://github.com/jihyeheo/C_study/blob/main/Review/Chapter2~Chapter8_Summary.pdf)<br>
