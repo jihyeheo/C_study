@@ -1,4 +1,4 @@
-# C_study [20210731 ~ 20211201]
+# C_study [20210731 ~ 20211202]
 
 ## 계획
 데이터 분석 동아리_ 소모둠 : c언어 스터디<br>
@@ -53,11 +53,20 @@
 
 ## Chapter15 : [20211110] <br>
 
+## Chapter16 : [20211110] <br>
+
+## Chapter17 : [20211202] <br>
+
+## Chapter18 : [20211202] <br>
+
+## Chapter19 : [20211202] <br>
+
+
 ## Project [20211101 ~ 20211201] <br>
 - 지금까지 배운 내용 게임 3편 제작기
 - **Game_1 출처** : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lghlove0509&logNo=220716010633 [20211117]<br>
 - **Game_2 출처** : https://min-12.tistory.com/13 [20211117]<br>
-- **Game_3 출ㅊ** : https://m.blog.naver.com/lghlove0509/220720238063 [20211117]
+- **Game_3 출처** : https://m.blog.naver.com/lghlove0509/220720238063 [20211117]
 
 ## 숙제(Review)<br>
 1) Chapter2 ~ Chapter8 [[Link]](https://github.com/jihyeheo/C_study/blob/main/Review/Chapter2~Chapter8_Summary.pdf)<br>
