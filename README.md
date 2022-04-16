@@ -89,4 +89,4 @@
 
 ## 숙제(Review)<br>
 1) Chapter2 ~ Chapter8 [[Link]](https://github.com/jihyeheo/C_study/blob/main/Review/Chapter2~Chapter8_Summary.pdf)<br>
-2) Chapter9 ~ Chapter12 [[Link]]
+2) Chapter9 ~ Chapter12 [[Link]](https://github.com/jihyeheo/C_study/blob/main/Review/Chapter9~Chapter12_Summary.pdf)
